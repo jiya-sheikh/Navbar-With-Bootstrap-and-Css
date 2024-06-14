@@ -1,0 +1,24 @@
+.custom-bg-red {
+    background-color:  rgb(206, 41, 41)!important;
+}
+
+.social-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.container1 {
+    margin-right: 40px;
+}
+
+.nav-item {
+    transition: color 0.9s ease, text-decoration 0.9s ease !important;
+}
+
+.nav-item:hover:active {
+    color: black !important;
+    text-decoration: none;
+}
+.nav-item-dropdown{
+    transition: color 0.9s ease, text-decoration 0.9s ease !important;
+}
